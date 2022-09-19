@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Mizu's Weblog
 ---
 
+[back to website](https://rexxt.github.io/)
